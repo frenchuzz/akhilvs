@@ -265,7 +265,7 @@ ul {
   font-family: 'Dosis', sans-serif;
   font-weight: 700;
   color: transparent;
-  -webkit-text-stroke-width: 5px;
+  -webkit-text-stroke-width: 2px;
   -webkit-text-stroke-color: rgb(253, 15, 15);
 
 }
